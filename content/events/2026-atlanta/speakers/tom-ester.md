@@ -1,6 +1,6 @@
 +++
 Title = "Tom Ester"
-Twitter = "01JZTVGVKT189BGD2QFWEZXZBJ"
+Twitter = "ecology_chris"
 linkedin = ""
 image = ""
 type = "speaker"
@@ -8,3 +8,4 @@ linktitle = "tom-ester"
 
 +++
 
+sociotechnical mathematician

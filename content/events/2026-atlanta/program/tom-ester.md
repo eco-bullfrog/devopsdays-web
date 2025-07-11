@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["tom-ester"]
 +++
 
-This is a description.
+This is a talk description.
